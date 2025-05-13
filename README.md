@@ -53,4 +53,4 @@ mvn clean install
 - Java 17 or higher
 - Maven 3.6 or higher
 - Git 2.25 or higher (for sparse checkout features)
-- Git LFS 
+- Git LFS <!-- Add build status badge - Branch: feature/update-readme-badges -->
