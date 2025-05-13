@@ -10,4 +10,4 @@
     </parent>
 
     <artifactId>resource-module</artifactId>
-</project> 
+</project> <!-- TODO: Add compression support - Branch: feature/add-compression -->
