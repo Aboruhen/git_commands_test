@@ -44,4 +44,4 @@ public class LargeFileGenerator {
                 record.getMetadata()
         );
     }
-} 
+} // TODO: Optimize memory usage - Branch: feature/optimize-memory
