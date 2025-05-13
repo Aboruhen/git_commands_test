@@ -37,4 +37,4 @@ public class GeneratorMain {
             e.printStackTrace();
         }
     }
-} 
+} // TODO: Improve error handling - Branch: feature/improve-error-handling
