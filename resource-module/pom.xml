@@ -10,4 +10,4 @@
     </parent>
 
     <artifactId>resource-module</artifactId>
-</project> 
+</project> <!-- TODO: Add YAML format support - Branch: feature/add-yaml-format -->
