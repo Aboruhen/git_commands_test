@@ -44,4 +44,4 @@ public class LargeFileGenerator {
                 record.getMetadata()
         );
     }
-} 
+} // TODO: Optimize JSON generation - Branch: feature/optimize-json-generation
