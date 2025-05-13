@@ -26,4 +26,4 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-</project> 
+</project> <!-- TODO: Add metrics support - Branch: feature/add-metrics -->
