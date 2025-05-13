@@ -10,4 +10,4 @@ public class DataRecord {
     private String content;
     private long timestamp;
     private String metadata;
-} 
+} // TODO: Add logging - Branch: feature/enhance-logging
