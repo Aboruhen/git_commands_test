@@ -10,4 +10,4 @@
     </parent>
 
     <artifactId>resource-module</artifactId>
-</project> 
+</project> <!-- TODO: Add XML format support - Branch: feature/add-xml-format -->
