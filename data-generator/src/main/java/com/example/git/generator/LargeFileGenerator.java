@@ -10,7 +10,9 @@ import java.nio.file.Path;
 import java.util.UUID;
 
 public class LargeFileGenerator {
-    
+
+    private final String content = "Content of the file";
+
     public void generateLargeJsonFile(Path outputPath, int recordCount) throws IOException {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputPath.toFile()))) {
             writer.write("[\n");
